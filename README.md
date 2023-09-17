@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brixtonlieberman
 - 👀 I’m vegan and love tacos ...
-- 🌱 I’m currently learning DevOps Engineering
+- 🌱 I’m currently learning DevOps Project and Product Management
 - 💞️ I’m looking to collaborate on any cool projects 
 
 <!---
